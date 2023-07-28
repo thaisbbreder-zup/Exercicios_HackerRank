@@ -88,6 +88,7 @@ public class Main {
         System.out.print("\nExercício 2: Me informe um número e eu te direi se ele é positivo ou negativo. ");
         int numero;
 
+
         do {
             try {
                 System.out.print("\nDigite um número inteiro: ");
